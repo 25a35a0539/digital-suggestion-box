@@ -48,7 +48,7 @@ This project is built using:
 ---
 
 ## 👩‍💻 Author
-Developed by: [Param Singh Naik]
+Developed by: Param Singh Naik
 Course: B.Tech CSE
 Year: 2nd Year
 
